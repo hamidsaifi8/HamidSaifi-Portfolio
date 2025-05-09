@@ -1,3 +1,4 @@
-<h1><b>Hamid Saifi Portfolio</b></h1>
+# Hamid Saifi Portfolio
 <br>
-Initial Portfolio
+- Initial Portfolio
+- Changed some layouts on about page
