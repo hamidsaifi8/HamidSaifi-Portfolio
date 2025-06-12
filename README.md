@@ -2,4 +2,4 @@
 <br>
 - Initial Portfolio
 - Changed some layouts on about page
-- Project
+- Project Section added
